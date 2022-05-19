@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MemeGeneratorApp</string>
+
+    <!--  Hints  -->
+    <string name="top_text_hint">Meme Top Text</string>
+    <string name="bottom_text_hint">Meme Bottom Text</string>
+
+    <!--  Buttons  -->
+    <string name="open_button">Open</string>
+    <string name="save_button">Save</string>
+    <string name="retry_button">Retry</string>
+    <string name="share_button">Share</string>
+    <string name="meme_text_color_button">Text Color</string>
+    <string name="font_size_button">Font Size</string>
+    <string name="filter_button">Filter</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+</resources>
